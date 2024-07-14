@@ -1,7 +1,7 @@
 # Phasmophobia (Custom Edition)
 Decompile of Phasmophobia, currently it's the first release version of the game, which is chock full of bugs, and some things that aren't quite right. I intend to update parts of the game to the last version without IL2CPP, unfortunately,
 this means we miss out on Prison, unless I figure out a way to port it over.
-## Known Bugs Fixed
+## Known Bugs
 
 | Bug Description                                           | Fixed |
 |-----------------------------------------------------------|-------|
