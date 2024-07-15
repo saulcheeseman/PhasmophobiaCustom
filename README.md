@@ -5,7 +5,7 @@ this means we miss out on Prison, unless I figure out a way to port it over.
 
 | Bug Description                                           | Fixed |
 |-----------------------------------------------------------|-------|
-| Sanity Pills taking away Sanity.                          | ✅    |
+| Sanity Pills taking away Sanity.                          | ❓    |
 | Ghost Orbs never show.                                    | ❌    |
 | Farmhouses have multiple broken shaders.                  | ✅    |
 | Asylum and Highschool having broken textures.             | ✅    |
