@@ -27,3 +27,4 @@ this means we miss out on Prison, unless I figure out a way to port it over.
 | Funny Easter Eggs                   | ❌    | ✅      |
 | Custom Maps                         | ❌    | ✅      |
 | Ported Maps                         | ❌    | ✅      |
+| Working Asylum Elevator             | ❌    | ✅      |
