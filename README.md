@@ -6,8 +6,8 @@ this means we miss out on Prison, unless I figure out a way to port it over.
 | Bug Description                                           | Fixed |
 |-----------------------------------------------------------|-------|
 | Sanity Pills taking away Sanity.                          | ❓    |
-| Night Vision does not work.                               | ❌    |
-| Farmhouses have multiple broken shaders.                  | ✅    |
+| Night Vision doesn't work.                                | ❌    |
+| The Farmhouses have multiple broken shaders.              | ✅    |
 | Asylum and Highschool having broken textures.             | ✅    |
 | Fingerprints are either invisible or are a shader error.  | ✅    |
 | Edgefield's lighting is incredibly broken and dark.       | ❌    |
