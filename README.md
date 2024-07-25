@@ -6,7 +6,7 @@ this means we miss out on Prison, which isn't necessarily a bad thing lol.
 | Bug Description                                           | Fixed |
 |-----------------------------------------------------------|-------|
 | Sanity Pills taking away Sanity.                          | ❓    |
-| Ghost Orbs don't show at all.                             | ❓    |
+| Ghost Orbs don't show at all.                             | ✅    |
 | Night Vision doesn't work.                                | ✅    |
 | Fingerprints are either invisible or are a shader error.  | ❌    |
 | Parts of the map are missing in the CCTV.                 | ❌    |
